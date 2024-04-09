@@ -1,5 +1,5 @@
 # Bem-vindo!!! Eu sou o Matheus
-- 📩 contate-me no e-mail: matheuscostafinsceca@gmail.com
+- 📩 Contate-me no e-mail: matheuscostafinsceca@gmail.com
 - 📚 Atualmente estudando PHP
 - 💻 Hoje trabalho como suporte de TI
  
