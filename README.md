@@ -1,6 +1,6 @@
 # Bem-vindo!!! Eu sou o Matheus
 - 📩 contate-me no e-mail:matheuscostafinsceca@gmail.com
-- 📚 Atualmente estudando JAVA
+- 📚 Atualmente estudando PHP
 - 💻 Hoje trabalho como suporte de TI
  
 <div align="center">
