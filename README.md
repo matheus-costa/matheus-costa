@@ -1,7 +1,6 @@
 # Bem-vindo(a)!!! Eu sou o Matheus
 - 📩 Contate-me no e-mail: matheuscostafinsceca@gmail.com
-- 📚 Atualmente estudando Análise de Dados
-- 💻 Hoje trabalho como Auxiliar de Processo
+- 💻 Hoje trabalho como Analista de Processo
  
 <div align="center">
   <a href="https://github.com/matheus-costa">
